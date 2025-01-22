@@ -24,4 +24,17 @@
    highlights, store locator, and loyalty program banners. Ensured a responsive and visually cohesive layout to deliver a memorable browsing experience.
 
    Link: https://bit.ly/40FfL58
+
+5) FinTrack :
+   Crafted a clean and intuitive interface for a personal expense tracker, prioritizing usability and clarity in financial data visualization. Designed      interactive dashboards featuring customizable categories, spending analytics, and progress tracking. Focused on a minimalistic and responsive design      to enhance user engagement across devices. Incorporated color-coded charts and dynamic summaries for effortless expense management.
+
+   Link: https://bit.ly/4g8oGR3
+
+
+
+
+
+
+
+
    
