@@ -19,7 +19,7 @@
 
    Link: https://bit.ly/3E5cB1G
 
-4) Erly Birds Coffee :
+4) Early Birds Coffee :
    Developed a modern, minimalistic landing page for a coffee shop, incorporating warm tones and inviting typography. Designed interactive features like menu 
    highlights, store locator, and loyalty program banners. Ensured a responsive and visually cohesive layout to deliver a memorable browsing experience.
 
